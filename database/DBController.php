@@ -4,7 +4,7 @@
         // Database connect properties
         protected $host = 'localhost';
         protected $user = 'root';
-        protected $password = 'axcel123';
+        protected $password = '';
         protected $database = "shopee";
 
 
